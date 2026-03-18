@@ -4,3 +4,9 @@ main update2
 feature1
 feature2
 feature3
+squash demo 1
+squash demo 2
+squash demo 3
+feat squash demo 1
+feat squash demo 2
+feat squash demo 3
